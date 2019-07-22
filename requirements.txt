@@ -1,0 +1,2 @@
+django==2.2.3
+django-parler==1.9.2 # https://github.com/django-parler/django-parler
