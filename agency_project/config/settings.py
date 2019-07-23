@@ -119,7 +119,7 @@ USE_TZ = True
 
 LANGUAGES = [
     ('es', _('Español')),
-    ('en-us', _('English'))
+    ('en', _('English'))
 ]
 
 

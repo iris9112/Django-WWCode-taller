@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-23 10:27-0500\n"
+"POT-Creation-Date: 2019-07-23 15:27-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: .\app\models.py:8 .\app\models.py:28 .\templates\base.html:120
+#: .\app\models.py:8 .\app\models.py:28 .\templates\base.html:123
 msgid "Nombre"
 msgstr "Name"
 
@@ -86,6 +86,34 @@ msgstr "Spanish"
 msgid "English"
 msgstr "English"
 
+#: .\templates\admin\base.html:35
+msgid "Welcome,"
+msgstr "Bienvenido,"
+
+#: .\templates\admin\base.html:40
+msgid "View site"
+msgstr "Ver sitio"
+
+#: .\templates\admin\base.html:45
+msgid "Documentation"
+msgstr "Documentación"
+
+#: .\templates\admin\base.html:52
+msgid "Change password"
+msgstr "Cambiar Contraseña"
+
+#: .\templates\admin\base.html:54
+msgid "Log out"
+msgstr "Salir"
+
+#: .\templates\admin\base.html:64
+msgid "Home"
+msgstr "Inicio"
+
+#: .\templates\admin\change_language.html:2
+msgid "Cambiar lenguaje"
+msgstr "Change Language"
+
 #: .\templates\app\list_services.html:6
 msgid "Bienvenidos"
 msgstr "Welcome"
@@ -98,46 +126,49 @@ msgstr "Meet our services"
 msgid "Proyectos"
 msgstr "Projects"
 
-#: .\templates\base.html:50 .\templates\base.html:110
+#: .\templates\base.html:50 .\templates\base.html:113
 msgid "Contacto"
 msgstr "Contact"
 
-#: .\templates\base.html:61
+#: .\templates\base.html:64
 msgid "¡Bienvenido a nuestro estudio! "
 msgstr "Welcome to our studio!"
 
-#: .\templates\base.html:62
+#: .\templates\base.html:65
 msgid "Es un placer conocerte "
 msgstr "Nice to meet you"
 
-#: .\templates\base.html:63
+#: .\templates\base.html:66
 msgid "Dime más "
 msgstr "Tell me more"
 
-#: .\templates\base.html:111
+#: .\templates\base.html:114
 msgid "Envianos tus comentarios o dudas"
 msgstr "Send us your comments or questions"
 
-#: .\templates\base.html:124
+#: .\templates\base.html:127
 msgid "Correo electronico"
 msgstr "Email"
 
-#: .\templates\base.html:128
+#: .\templates\base.html:131
 msgid "Telefono"
 msgstr "Telephone"
 
-#: .\templates\base.html:134
+#: .\templates\base.html:137
 msgid "Mensaje"
 msgstr "Message"
 
-#: .\templates\base.html:141
+#: .\templates\base.html:144
 msgid "Enviar"
 msgstr "Submit"
 
-#: .\templates\base.html:179
+#: .\templates\base.html:182
 msgid "Política de Privacidad"
 msgstr "Privacy Policy"
 
-#: .\templates\base.html:182
+#: .\templates\base.html:185
 msgid "Términos y Condiciones"
 msgstr "Terms and Conditions"
+
+#~ msgid "Change language"
+#~ msgstr "Cambiar lenguaje"

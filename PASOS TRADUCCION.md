@@ -137,3 +137,7 @@ processing locale en_US
 (my_env) C:\Users\agency_project>django-admin compilemessages
 processing file django.po in C:\Users\agency_project\locale\en_US\LC_MESSAGES
 ```
+
+### Nota
+
+[Snippet](https://djangosnippets.org/snippets/751/) para cambiar de lenguaje el admin de django
