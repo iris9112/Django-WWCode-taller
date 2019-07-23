@@ -1,0 +1,46 @@
+
+# Created by https://www.gitignore.io/api/python,django
+# Edit at https://www.gitignore.io/?templates=python,django
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+agency_project/app/__pycache__/models.cpython-37.pyc
+agency_project/app/__pycache__/
+agency_project/config/__pycache__/
+agency_project/*/__pycache__/*
+
+### Django.Python Stack ###
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
