@@ -1,12 +1,16 @@
 from django.db import models
+from parler.models import TranslatableModel, TranslatedFields
 from django.utils.translation import ugettext_lazy as _
 
 # Create your models here.
 
 
-class Service(models.Model):
-    name = models.CharField(max_length=200, verbose_name=_("Nombre"))
-    description = models.TextField(verbose_name=_("Descripción"))
+class Service(TranslatableModel):
+    translations = TranslatedFields(
+        name = models.CharField(max_length=200, verbose_name=_("Nombre")),
+        description = models.TextField(verbose_name=_("Descripción"))
+    )
+    
     fa_icon = models.CharField(max_length=50, verbose_name=_("Icono"))
     class Meta:
         verbose_name = _("Servicio")
