@@ -1,0 +1,143 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-23 10:27-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\app\models.py:8 .\app\models.py:28 .\templates\base.html:120
+msgid "Nombre"
+msgstr "Name"
+
+#: .\app\models.py:9 .\app\models.py:30
+msgid "Descripción"
+msgstr "Description"
+
+#: .\app\models.py:10
+msgid "Icono"
+msgstr "Icono"
+
+#: .\app\models.py:12
+msgid "Servicio"
+msgstr "Service"
+
+#: .\app\models.py:13 .\templates\app\list_services.html:16
+#: .\templates\base.html:44
+msgid "Servicios"
+msgstr "Services"
+
+#: .\app\models.py:22
+msgid "Diseño web"
+msgstr "Web design"
+
+#: .\app\models.py:23
+msgid "Mercadeo"
+msgstr "Marketing"
+
+#: .\app\models.py:24
+msgid "Diseño gráfico"
+msgstr "Graphic design"
+
+#: .\app\models.py:25
+msgid "Fotografía"
+msgstr "Photography"
+
+#: .\app\models.py:29
+msgid "Título"
+msgstr "Title"
+
+#: .\app\models.py:31
+msgid "Imagen"
+msgstr "Image"
+
+#: .\app\models.py:32
+msgid "Categoria"
+msgstr "Category"
+
+#: .\app\models.py:33
+msgid "Fecha de creación"
+msgstr "Creation date"
+
+#: .\app\models.py:36
+msgid "proyecto"
+msgstr "Project"
+
+#: .\app\models.py:37
+msgid "proyectos"
+msgstr "Projects"
+
+#: .\config\settings.py:121
+msgid "Español"
+msgstr "Spanish"
+
+#: .\config\settings.py:122
+msgid "English"
+msgstr "English"
+
+#: .\templates\app\list_services.html:6
+msgid "Bienvenidos"
+msgstr "Welcome"
+
+#: .\templates\app\list_services.html:17
+msgid "Conoce nuestros servicios"
+msgstr "Meet our services"
+
+#: .\templates\base.html:47
+msgid "Proyectos"
+msgstr "Projects"
+
+#: .\templates\base.html:50 .\templates\base.html:110
+msgid "Contacto"
+msgstr "Contact"
+
+#: .\templates\base.html:61
+msgid "¡Bienvenido a nuestro estudio! "
+msgstr "Welcome to our studio!"
+
+#: .\templates\base.html:62
+msgid "Es un placer conocerte "
+msgstr "Nice to meet you"
+
+#: .\templates\base.html:63
+msgid "Dime más "
+msgstr "Tell me more"
+
+#: .\templates\base.html:111
+msgid "Envianos tus comentarios o dudas"
+msgstr "Send us your comments or questions"
+
+#: .\templates\base.html:124
+msgid "Correo electronico"
+msgstr "Email"
+
+#: .\templates\base.html:128
+msgid "Telefono"
+msgstr "Telephone"
+
+#: .\templates\base.html:134
+msgid "Mensaje"
+msgstr "Message"
+
+#: .\templates\base.html:141
+msgid "Enviar"
+msgstr "Submit"
+
+#: .\templates\base.html:179
+msgid "Política de Privacidad"
+msgstr "Privacy Policy"
+
+#: .\templates\base.html:182
+msgid "Términos y Condiciones"
+msgstr "Terms and Conditions"
